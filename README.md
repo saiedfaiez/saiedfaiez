@@ -1,135 +1,153 @@
-# 👋 Hi, I'm Elsayed Fayez
+# 👋 Welcome to Elsayed Fayez's GitHub
 
-### 💻 C++ Learner | Backend Development | Future Cyber Security Enthusiast
+> 🎮 **The Developer Journey has started...**
 
-I'm a developer in progress, currently building my programming foundation and working toward becoming a **Backend Developer**.
-
-I'm focusing on understanding the fundamentals deeply, practicing problem solving, and building projects along the way.
+<p align="center">
+  <b>🚀 Welcome to my learning journey!</b>
+</p>
 
 ---
 
-## 🚀 What I'm Learning
+## 🧑‍💻 Player Profile
 
-### 💻 Programming
+**Name:** Elsayed Fayez
+**Current Level:** 🌱 Beginner Developer
+**Main Path:** 💻 Backend Development
+**Secondary Path:** 🛡️ Cyber Security
+
+---
+
+## 🎯 Current Mission
+
+| Mission                   | Status            |
+| ------------------------- | ----------------- |
+| Learn C++                 | 🟡 In Progress    |
+| Learn OOP                 | 🟡 In Progress    |
+| Learn Algorithms          | 🟡 In Progress    |
+| Learn Problem Solving     | 🟡 In Progress    |
+| Learn Data Structures     | 🟡 In Progress    |
+| Learn Backend Development | 🟡 In Progress    |
+| Explore Cyber Security    | 🔒 Future Mission |
+
+---
+
+## 📚 Training Camp
+
+### ⚙️ C++ / OOP / Algorithms
+
+I'm currently learning:
 
 * C++
-* Object-Oriented Programming (OOP)
+* Object-Oriented Programming
 * Algorithms
 * Data Structures
 * Problem Solving
 
+📖 **Learning with:** Abu-Hadhoud
+
+---
+
 ### 🌐 Backend Development
 
-Currently learning Backend Development and working toward building real-world backend applications.
+My next major goal is to become a **Backend Developer**.
 
-I'm focusing on:
+Currently learning backend development with:
+
+📖 **Osama Elzero**
+
+My backend journey will focus on understanding:
 
 * Backend fundamentals
-* APIs
 * Databases
+* APIs
 * Authentication & Authorization
 * Server-side development
-* Building practical projects
-
-### 🛡️ Cyber Security
-
-Cyber Security is one of my long-term goals.
-
-I plan to build a strong foundation in programming, operating systems, networking, and backend development before going deeper into Cyber Security.
+* Building real projects
 
 ---
 
-## 📚 Learning From
+## 🛡️ Future Mission: Cyber Security
 
-* **Abu-Hadhoud** → C++, OOP, Algorithms & Problem Solving
-* **Osama Elzero** → Backend Development
-
----
-
-## 🎯 My Roadmap
+After building a strong programming and backend foundation,
+I want to start my journey into **Cyber Security**.
 
 ```text
 C++
- │
- ├── OOP
- │
- ├── Algorithms
- │
- ├── Data Structures
- │
- └── Problem Solving
-          │
-          ▼
-   Backend Development
-          │
-          ├── Databases
-          ├── APIs
-          ├── Authentication
-          └── Real Projects
-                    │
-                    ▼
-             Cyber Security
+ ↓
+OOP
+ ↓
+Algorithms
+ ↓
+Problem Solving
+ ↓
+Data Structures
+ ↓
+Backend Development
+ ↓
+Real Projects
+ ↓
+Cyber Security
 ```
 
 ---
 
-## 🛠️ Technologies I'm Working With
+## 🏆 My Main Goal
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+> **Become a strong Backend Developer and build a solid foundation in Cyber Security.**
 
-> More technologies will be added as I learn and build with them.
+I'm not trying to learn everything at once.
 
----
+I'm focusing on:
 
-## 📌 Current Goals
-
-* [ ] Build a strong C++ foundation
-* [ ] Master OOP
-* [ ] Improve problem-solving skills
-* [ ] Learn Algorithms & Data Structures
-* [ ] Learn Backend Development
-* [ ] Build real-world projects
-* [ ] Become a Backend Developer
-* [ ] Start my Cyber Security journey
+**Learn → Practice → Build → Understand → Improve**
 
 ---
 
-## 💡 My Philosophy
-
-> **Learn the fundamentals. Practice consistently. Build real projects. Keep improving.**
-
-I'm currently at the beginning of my journey, and this GitHub profile will document my progress from learning the fundamentals to building real applications.
-
----
-
-## 📈 My Journey
-
-```text
-🌱 Beginner
-     ↓
-💻 C++
-     ↓
-🧠 OOP + Problem Solving
-     ↓
-⚡ Algorithms + Data Structures
-     ↓
-🌐 Backend Development
-     ↓
-🚀 Real Projects
-     ↓
-🛡️ Cyber Security
-```
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, building, and connecting with other developers.
+## 🎮 Current Status
 
 <p align="center">
-  <b>🚀 The journey has just begun.</b>
+
+🟢 C++        █████░░░░░░
+🟡 OOP        ████░░░░░░░
+🟡 Algorithms ███░░░░░░░░
+🟡 Backend    ██░░░░░░░░░
+🔒 Cyber      ░░░░░░░░░░░
+
+</p>
+
+---
+
+## 🚧 Projects
+
+> 🚀 Projects will be added as I progress through my learning journey.
+
+My goal is not just to watch courses.
+
+**I want to build.**
+
+---
+
+## 💭 Developer Mindset
+
+```text
+Don't rush.
+Don't compare.
+Keep learning.
+
+One concept.
+One problem.
+One project.
+Every day.
+
+🚀 Keep going.
+```
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! ❤️</b>
+</p>
+
+<p align="center">
+  <i>This is only the beginning...</i> 🚀
 </p>
